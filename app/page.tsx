@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <main>
       <h1>Welcome to My Portfolio</h1>
-    </main>
+      <p>Thanks for visiting the website</p>
+    </main> 
   );
 }
